@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+.secao_informacoes {
+    height: 60vh;
+}
+
+.container_texto {
+    max-width: 900px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.container_texto h1 {
+    font-size: 40px;
+}
+
+.paragrafo {
+    font-size: 18px;
+}
+
+.paragrafo_destaque {
+    font-family: "Great Vibes";
+    font-size: 50px;
+    color: #b2987d;
+}
